@@ -1,2 +1,2 @@
 "latest.zip" is the lateset version of the releases.
-Others are older.
+The others are older versions of the file
